@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>使用说明.txt</file>
+    </qresource>
+</RCC>

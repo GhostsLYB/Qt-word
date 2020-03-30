@@ -1,0 +1,8 @@
+﻿QPlainTextEdit{
+    font-style:"楷体";
+    border: 0.5px solid black;
+    margin:0px;
+    padding: 0px;
+    selection-color:red;
+    selection-background-color:blue;
+}

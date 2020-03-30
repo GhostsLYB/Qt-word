@@ -1,0 +1,15 @@
+﻿Alt + F4 : 退出
+Control + H : 帮助
+Control + O : 打开文件
+Control + N : 新建文件
+Control + S :  保存
+Control + Shift + S : 另存
+Control + Shift + C : 选择背景颜色
+Control + Shift + O :关闭当前文件
+
+1.打开窗口不会打开任何文件
+2.可直接打开文件或新建文件
+3.打开文件会存储文件的绝对路径
+4.未绑定（打开或新建）文件，可以输入内容。
+   此时文件路径为空。
+   如果文本内容非空，保存或关闭时提示是否保存
